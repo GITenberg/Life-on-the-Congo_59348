@@ -1,0 +1,25 @@
+_repo: Life-on-the-Congo_59348
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Grenfell, George
+    gutenberg_agent_id: '50409'
+    url: http://www.gutenberg.org/2009/agents/50409
+creator:
+  author:
+    agent_name: Bentley, W. Holman
+    gutenberg_agent_id: '50408'
+    url: http://www.gutenberg.org/2009/agents/50408
+description: ''
+gutenberg_issued: '2019-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Life on the Congo
+url: http://www.gutenberg.org/ebooks/59348
